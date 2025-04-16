@@ -29,7 +29,7 @@ Advanced Modelling techniques and other regression models that will help provide
 
 #### Outline of project
 
-- [a relative link](Capstone_Gaurav_Garg_EDA.ipynb)
+- [Link to Notebook](Capstone_Gaurav_Garg_EDA.ipynb)
 
 ##### Contact and Further Information
 Gaurav Garg
