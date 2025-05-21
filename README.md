@@ -26,7 +26,7 @@ The preliminary results indicate a linear relationship for insurance rates below
 
 #### Outline of project
 
-- [Link to Notebook](Capstone_Gaurav_Garg_Final.ipynb)
+- [Link to Notebook](Capstone_Gaurav_Garg_EDA.ipynb)
 
 ##### Contact and Further Information
 Gaurav Garg
