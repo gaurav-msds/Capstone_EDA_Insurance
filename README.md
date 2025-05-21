@@ -24,12 +24,9 @@ The preliminary results indicate a linear relationship for insurance rates below
 - If an individual is a Smoker, the charges increases by 1387.91 regardless of other features.
 - The charges increases by 273.81 with every unit increase in Age while other values remain constant.
 
-#### Next steps
-Advanced Modelling techniques and other regression models that will help provide a better range and minimize the prediction error will be deployed in the next subsequent weeks.
-
 #### Outline of project
 
-- [Link to Notebook](Capstone_Gaurav_Garg_EDA.ipynb)
+- [Link to Notebook](Capstone_Gaurav_Garg_Final.ipynb)
 
 ##### Contact and Further Information
 Gaurav Garg
